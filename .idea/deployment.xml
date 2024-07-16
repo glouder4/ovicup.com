@@ -5,7 +5,7 @@
       <paths name="ovicup.com">
         <serverdata>
           <mappings>
-            <mapping deploy="/local" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
