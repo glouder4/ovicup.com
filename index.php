@@ -5,6 +5,7 @@ $APPLICATION->SetPageProperty("TITLE", "Кубок Александра Овеч
 $APPLICATION->SetPageProperty("keywords", "Кубок Александра Овечкина, Ovi Cup");
 $APPLICATION->SetPageProperty("description", "Детско-юношеский хоккейный турнир «Кубок Александра Овечкина»");
 $APPLICATION->SetTitle("Кубок Александра Овечкина | Ovi Cup");
+
 ?> <?$APPLICATION->IncludeComponent(
 	"bitrix:news.list",
 	"news-short",
